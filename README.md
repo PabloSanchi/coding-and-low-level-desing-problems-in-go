@@ -9,6 +9,7 @@ Remember that in order to learn, is better to do it by yourself first.
   - [Plus One](lists/plus_one)
   - [Remove Duplicates](lists/remove_duplicates)
   - [Rotate Lists](lists/rotate_lists)
+  - [Merge Nodes Between Zeros](lists/merge_nodes_between_zeros)
 - Strings: String manipulation and algorithms
   - [String Comprehension 3](strings/string_comprehension_3)
 - Trees: Any kind of tree related problems
